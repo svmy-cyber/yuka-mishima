@@ -114,7 +114,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     min-width: 1px;
     height: auto;
     padding-top: 48vw;
-    background-size: auto 48vw;
+
     background-position: center top;
   }
   .top-hero-container {
